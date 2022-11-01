@@ -21,3 +21,17 @@
 //* let ad = prompt("adınızı girin");
 //* console.log(`adınız : ${ad} dir`);
 //* console.log("adınız : ad + dır");
+
+
+// var a = 10;
+// {
+//     let b = 3;
+// }
+//* console.log("a = " + a);
+//* console.log("b =" + b); çalışmaz clg üst blokta olmalı çünkü let ile tanımlanmıştır.
+
+// let age = 30;
+// let oldAge = age;
+// age = 31;
+// console.log(age);
+// console.log(oldAge);
