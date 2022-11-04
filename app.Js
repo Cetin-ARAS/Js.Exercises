@@ -35,3 +35,6 @@
 // age = 31;
 // console.log(age);
 // console.log(oldAge);
+
+//*const language = "Javascript"
+//*console.log(language [ language.length - 3 ]); burada languane.lenght undifened bu nedenle -3. teim olan i döner.
