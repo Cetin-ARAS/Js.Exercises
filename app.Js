@@ -70,3 +70,17 @@
 
 // console.log("Friend:", friend);    ikisinde de age 27 çıkar 
 // console.log("Me:", me);
+
+
+//!const student = {
+    //! firtName: 'Can',
+    //!  number: 'F1234',
+};
+//! const otherStudent = student;
+//! console.log(otherStudent);
+
+//! otherStudent.number = 'C12356';
+
+//! console.log(student);
+
+//! burada const adresini değiştiremeyiz ama içindekileri değiştirebilir yani yeniden const = otherStudent yapamayız
