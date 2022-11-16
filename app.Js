@@ -84,3 +84,6 @@
 //! console.log(student);
 
 //! burada const adresini değiştiremeyiz ama içindekileri değiştirebilir yani yeniden const = otherStudent yapamayız
+
+//? console.log(3>2>1)= false
+//? console.log(1<2<3); true
