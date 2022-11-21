@@ -74,8 +74,8 @@
 
 //!const student = {
     //! firtName: 'Can',
-    //!  number: 'F1234',
-};
+    //!  number: 'F1234', };
+
 //! const otherStudent = student;
 //! console.log(otherStudent);
 
@@ -87,3 +87,6 @@
 
 //? console.log(3>2>1)= false
 //? console.log(1<2<3); true
+
+//* let age = prompt('How old are you?', 100);
+//*alert(`You are ${age} years old!`);
