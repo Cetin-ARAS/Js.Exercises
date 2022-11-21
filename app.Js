@@ -90,3 +90,9 @@
 
 //* let age = prompt('How old are you?', 100);
 //*alert(`You are ${age} years old!`);
+
+// let a = ["javascript"];
+// console.log(a.length); =1
+
+// let a = "javascript";
+// console.log(a.length); =10
