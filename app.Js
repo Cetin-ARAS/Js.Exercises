@@ -99,3 +99,25 @@
 //?let a = 2
 //?let a = 4        olmaz block scope
 //?console.log(a);
+
+
+//!let a= null
+//!console.log("1." + typeof a );
+
+// let a = 32;
+// console.log("32" + a); //!number
+
+// let a = 32125n;
+// console.log("12."+ typeof a); //!bigint
+
+// let a = 1
+// console.log(typeof a);
+
+// let a = 5.5 (virgül olmaz)
+// console.log(typeof a);
+
+// const fn = () => ({x:1, y:2, a:3, b:4})
+// const {x:a, y:b} = fn()
+// console.log(a,b)
+
+// console.log(typeof NaN); (number)
