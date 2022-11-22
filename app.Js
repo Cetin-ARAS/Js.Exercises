@@ -133,3 +133,4 @@ console.log(a+b) = 0.3000...4 but
 
 let x = (0.2*10 +0.1*10)/10
 console.log(x) = 0.3 buluruz*/
+
