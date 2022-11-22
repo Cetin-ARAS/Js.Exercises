@@ -95,4 +95,7 @@
 // console.log(a.length); =1
 
 // let a = "javascript";
-// console.log(a.length); =10
+
+//?let a = 2
+//?let a = 4        olmaz block scope
+//?console.log(a);
