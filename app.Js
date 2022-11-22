@@ -121,3 +121,15 @@
 // console.log(a,b)
 
 // console.log(typeof NaN); (number)
+//?console.log(Number.MAX_VALUE);
+//?console.log(Number.MIN_VALUE)
+
+// let billion = 1.2e9
+// console.log(billion);
+
+/*let a = 0.2
+let b = 0.1
+console.log(a+b) = 0.3000...4 but
+
+let x = (0.2*10 +0.1*10)/10
+console.log(x) = 0.3 buluruz*/
