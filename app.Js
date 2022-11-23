@@ -163,3 +163,8 @@ console.log(x) = 0.3 buluruz*/
 // console.log(a);
 // console.log(b);
 
+//! a="", b=0, c=null
+//!e=a||b||c,
+//!console.log(e);
+
+
