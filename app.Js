@@ -153,3 +153,13 @@ console.log(x) = 0.3 buluruz*/
 
 // console.log(typeof (5 <= 4)); 
 
+// let a = 5
+// let b = a++
+// console.log(a);
+// console.log(b);
+
+// let a = 5
+// let b = ++a
+// console.log(a);
+// console.log(b);
+
