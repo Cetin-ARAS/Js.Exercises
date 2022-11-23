@@ -171,3 +171,7 @@ console.log(x) = 0.3 buluruz*/
 // console.log(Boolean(null)); false verir
 // console.log(Boolean(NaN)); false verir
 // "",0,0n,false, false verir
+//?console.log(null||undefined); undefined döner true yok son falseyı aldı.
+
+//! let a =(1,2,3);
+//! console.log(a); 3 verir , nedeniyle
