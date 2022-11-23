@@ -143,4 +143,13 @@ console.log(x) = 0.3 buluruz*/
 // console.log(`result is ${result}`) octal
 
 //*let a = null
-//*console.log(typeof a);
+//*console.log(typeof a); object
+
+//? let h =1_000_000 bu şelide yazılarbilir kolay okunsun diye
+
+//?console.log(isNan(h)) true or false verir
+
+//! console.log(015+025); başında 0 old için oktal
+
+// console.log(typeof (5 <= 4)); 
+
