@@ -167,4 +167,7 @@ console.log(x) = 0.3 buluruz*/
 //!e=a||b||c,
 //!console.log(e);
 
-
+// console.log(Boolean(undefined)); false verir
+// console.log(Boolean(null)); false verir
+// console.log(Boolean(NaN)); false verir
+// "",0,0n,false, false verir
