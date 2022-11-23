@@ -134,3 +134,13 @@ console.log(a+b) = 0.3000...4 but
 let x = (0.2*10 +0.1*10)/10
 console.log(x) = 0.3 buluruz*/
 
+// let myNumber = 0x5AD;
+// console.log(myNumber) hexadecimal
+
+// num1 = 15;
+// num2 = 025;
+// let result = num1 + num2;
+// console.log(`result is ${result}`) octal
+
+//*let a = null
+//*console.log(typeof a);
