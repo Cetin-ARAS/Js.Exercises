@@ -204,4 +204,25 @@ console.log(x) = 0.3 buluruz*/
 // console.log(a);
 // let a = 3  is not defined verir hatadır.
 
-// console.log(4<=5) boolen true verir
+// console.log(4<=5) boolen true
+
+// var a = 5, n = -3; a += ++n;
+// console.log(n)  -2
+// console.log(a) 3
+
+	//? var s = '55' + '0';  550
+	//? var s = '55' + 0; 550
+	//? var s = '55' * 1 + 0; 55
+	//? var s = '55' * 1 + '0'; 550
+
+	// var n = 42; 
+    // var obj = new Object ({ 
+    //     	n: 10, 	f: function(){ 	
+    //             	return n;  
+    //             	} });  
+    // console.log ( obj.f() ) 42 yazar burda
+
+    // var a= 2
+    // function s()
+    // {var a=3}
+    // console.log(a) a burda 2 yazar
