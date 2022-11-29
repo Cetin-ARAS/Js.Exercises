@@ -187,10 +187,12 @@ console.log(x) = 0.3 buluruz*/
 // console.log(number[0])   1 verir = number1
 
 
-// const fullStack [
+// const fullStack [                            
 //     ["HTML","CSS","JS","REACT"]
 //     ["NODE","EXPRESS","MONGODB"]
 // ]
 // const [frontend,backend] = fullStack
 // console.log(frontend); =>     ["HTML","CSS","JS","REACT"]
 // console.log(frontend); =>     ["NODE","EXPRESS","MONGODB"]
+// const [[frontendilkeleman],backend] = fullStack
+/* console.log(frontendilkeleman); HTML yazdırır*/
