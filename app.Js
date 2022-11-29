@@ -181,3 +181,7 @@ console.log(x) = 0.3 buluruz*/
 // a = b
 // console.log(a);
 // console.log(b);
+
+// const numbers = [1,2,3]
+// const [number1, number2] = numbers
+// console.log(number[0])   1 verir = number1
