@@ -196,3 +196,12 @@ console.log(x) = 0.3 buluruz*/
 // console.log(frontend); =>     ["NODE","EXPRESS","MONGODB"]
 // const [[frontendilkeleman],backend] = fullStack
 /* console.log(frontendilkeleman); HTML yazdırır*/
+// bir elemanı es geçmek için virgül arası boşluk yapabilirsin.
+
+// console.log(a)
+// var a = 3  undefined verir dikkat hosting özelliği varı
+// fakat
+// console.log(a);
+// let a = 3  is not defined verir hatadır.
+
+// console.log(4<=5) boolen true verir
