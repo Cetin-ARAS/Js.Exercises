@@ -185,3 +185,12 @@ console.log(x) = 0.3 buluruz*/
 // const numbers = [1,2,3]
 // const [number1, number2] = numbers
 // console.log(number[0])   1 verir = number1
+
+
+// const fullStack [
+//     ["HTML","CSS","JS","REACT"]
+//     ["NODE","EXPRESS","MONGODB"]
+// ]
+// const [frontend,backend] = fullStack
+// console.log(frontend); =>     ["HTML","CSS","JS","REACT"]
+// console.log(frontend); =>     ["NODE","EXPRESS","MONGODB"]
