@@ -222,7 +222,19 @@ console.log(x) = 0.3 buluruz*/
     //             	} });  
     // console.log ( obj.f() ) 42 yazar burda
 
+    // var n = 42; 
+    // var obj = new Object ({ 	
+    //     n: 10, 	f: function() { 
+    //            		return this.n;  
+    //             	} });  
+    //                 console.log ( obj.f() ); 10 yazar burda
+
     // var a= 2
     // function s()
     // {var a=3}
     // console.log(a) a burda 2 yazar
+
+   //* let x = (1,2,3)
+    //*console.log(x); 3 verir virgülün özelliği 
+
+ 
