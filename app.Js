@@ -175,3 +175,9 @@ console.log(x) = 0.3 buluruz*/
 
 //! let a =(1,2,3);
 //! console.log(a); 3 verir , nedeniyle
+
+// let a = 3
+// let b = 4
+// a = b
+// console.log(a);
+// console.log(b);
