@@ -298,4 +298,12 @@ console.log(x) = 0.3 buluruz*/
 // } while(number >= 0)
 // console.log(`The sum is ${sum}.`);
 
+
+// var players = ["Messi ", "Ronaldo ", "Hazard ", "Neymar ", "Salah "];
+// var text = "";
+// var i;  
+// for (i = 2; i < players.length; i++) {
+// text += players[i];
+// }
+// console.log(text);  ilk i 2 dir önemli
  
