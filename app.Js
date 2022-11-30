@@ -283,4 +283,11 @@ console.log(x) = 0.3 buluruz*/
 // }
 // console.log(dayName); // Tuesday
 
+// let sum=0;
+// for (let i = 0; i <= 6; i++) {
+//   console.log(i);
+//   sum += i;
+// }
+// console.log(`total price ${sum}`)   
+
  
