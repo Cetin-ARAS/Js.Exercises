@@ -322,6 +322,13 @@ sayHi()
 // console.log(typeof sayHi2); // function
 
 //?for(let i=0; i <= 30; i++){
-   //? const randomSayi = Math.random();
+   //? const randomSayi = Math.floor(Math.random()* 100 + 1);
     //?console.log(randomSayi);
 //?   }
+
+// const n = prompt(`n sayısı giriniz`);
+// let toplam = 0
+// for(i=0; i<=n; i++){
+//     toplam += i;
+// }
+// console.log(toplam)
