@@ -237,4 +237,50 @@ console.log(x) = 0.3 buluruz*/
    //* let x = (1,2,3)
     //*console.log(x); 3 verir virgülün özelliği 
 
+//     let a = 3;
+// switch (a) {
+//   case "3":
+//     a = 33;
+//     break;
+//   case 2:
+//     a = 'two';
+//     break;
+//   case 3:
+//     a = 'three';
+//     break;
+//   default:
+//     a = 'not found';
+//     break;
+// }
+// console.log(`The value is ${a}`); burada === bunun ile kontrol eder
+
+// let day = 2;
+// let dayName;
+// switch (day) {
+//   case 1:
+//     dayName = 'Monday';
+//     break;
+//   case 2:
+//     dayName = 'Tuesday';
+//     break;
+//   case 3:
+//     dayName = 'Wednesday';
+//     break;
+//   case 4:
+//     dayName = 'Thursday';
+//     break;
+//   case 5:
+//     dayName = 'Friday';
+//     break;
+//   case 6:
+//     dayName = 'Saturday';
+//     break;
+//   case 7:
+//     dayName = 'Sunday';
+//     break;
+//   default:
+//     dayName = 'Invalid day';
+// }
+// console.log(dayName); // Tuesday
+
  
