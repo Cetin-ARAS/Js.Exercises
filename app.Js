@@ -307,3 +307,21 @@ console.log(x) = 0.3 buluruz*/
 // }
 // console.log(text);  ilk i 2 dir önemli
  
+function sayHi() {
+    return 'Hi!';
+}
+function sayHi2() {
+    console.log('Hello!');
+}
+sayHi()
+// sayHi(); // no output to the console
+// console.log(typeof sayHi()); // string
+// console.log(typeof sayHi); // function
+// sayHi2(); // Hello!
+// console.log(typeof sayHi2()); // undefined
+// console.log(typeof sayHi2); // function
+
+//?for(let i=0; i <= 30; i++){
+   //? const randomSayi = Math.random();
+    //?console.log(randomSayi);
+//?   }
