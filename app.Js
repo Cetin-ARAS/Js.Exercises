@@ -341,3 +341,21 @@ console.log(x) = 0.3 buluruz*/
 
 // const mesaj1 = yasHesapla(2001, "Elif");
 // console.log(mesaj1);
+
+// const buyukBul = function (x,y,z,a){
+// let enBuyuk;
+//   if(x>y && x>z && x>a) {
+//     enBuyuk = x;
+//   }else if(a>y && a>z && a>x){
+//     enBuyuk = a;  
+//   }else if(y>a && y>z && y>x){
+//     enBuyuk = y;
+//   }else if(z>y && z>a && z>x){
+//     enBuyuk = z; 
+//   }else{
+//     enBuyuk =x;
+//   }
+//    return enBuyuk;
+// };
+
+// console.log('En Büyük Sayi:', buyukBul(1, 3, 5, 4));
