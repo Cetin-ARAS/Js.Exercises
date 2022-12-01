@@ -368,3 +368,14 @@ console.log(x) = 0.3 buluruz*/
 
 //!const hacimHesapla =(r, h)=>((Math.PI*r**2)*h);
 //!console.log('silindir hacmi:', hacimHesapla(r,h));
+
+//!const school = {
+   //! numStudents: 45,
+   //! maxCapacity: 100,
+   //! availableQuota() {
+        // this refers to the school object
+        // and it's used to access its properties
+        return this.maxCapacity - this.numStudents;
+   //! }
+//!};
+//!console.log(school.availableQuota());
