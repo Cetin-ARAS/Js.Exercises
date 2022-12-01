@@ -359,3 +359,6 @@ console.log(x) = 0.3 buluruz*/
 // };
 
 // console.log('En Büyük Sayi:', buyukBul(1, 3, 5, 4));
+
+//?const tekMi=(n)=> (n % 2  ? 'TEK' : 'ÇİFT');
+//?console.log(tekMi(3));
