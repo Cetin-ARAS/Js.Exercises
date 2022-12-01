@@ -307,13 +307,13 @@ console.log(x) = 0.3 buluruz*/
 // }
 // console.log(text);  ilk i 2 dir önemli
  
-function sayHi() {
-    return 'Hi!';
-}
-function sayHi2() {
-    console.log('Hello!');
-}
-sayHi()
+// function sayHi() {
+//     return 'Hi!';
+// }
+// function sayHi2() {
+//     console.log('Hello!');
+// }
+// sayHi()
 // sayHi(); // no output to the console
 // console.log(typeof sayHi()); // string
 // console.log(typeof sayHi); // function
@@ -332,3 +332,12 @@ sayHi()
 //     toplam += i;
 // }
 // console.log(toplam)
+
+
+// function yasHesapla(year, name) {
+//     const mesaj  = ` ${name} in yaşı ${new Date().getFullYear() - year} dir`;
+//     return mesaj;
+// }
+
+// const mesaj1 = yasHesapla(2001, "Elif");
+// console.log(mesaj1);
