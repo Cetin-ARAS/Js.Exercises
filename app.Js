@@ -362,3 +362,9 @@ console.log(x) = 0.3 buluruz*/
 
 //?const tekMi=(n)=> (n % 2  ? 'TEK' : 'ÇİFT');
 //?console.log(tekMi(3));
+
+//!const r = prompt('yarıçapı giriniz');
+//!const h = prompt('yüksekliği giriniz');
+
+//!const hacimHesapla =(r, h)=>((Math.PI*r**2)*h);
+//!console.log('silindir hacmi:', hacimHesapla(r,h));
