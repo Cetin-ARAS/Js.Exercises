@@ -375,7 +375,13 @@ console.log(x) = 0.3 buluruz*/
    //! availableQuota() {
         // this refers to the school object
         // and it's used to access its properties
-        return this.maxCapacity - this.numStudents;
+       //! return this.maxCapacity - this.numStudents;
    //! }
 //!};
 //!console.log(school.availableQuota());
+
+
+//* var num = [7, 12, 143, 54, 37]
+//*num.sort(function (a,b){
+//*return a - b});
+//*console.log(num);
