@@ -404,3 +404,8 @@ console.log(x) = 0.3 buluruz*/
 // let secondResult = str.lastIndexOf("know", str.lastIndexOf("know")-1); // Nested use
 
 // console.log (`secondResult is ${secondResult } `);
+
+
+//!let str = 'You do not KNow what you do not know until you know.';
+//!console.log (str.search(/know/i));
+//*İ HALF DUYARLILIĞINI KALDIRIR ÖNEMLİ searc de indexOf gibi bulamaz ise -1 çevirir
