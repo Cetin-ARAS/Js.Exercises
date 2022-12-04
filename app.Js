@@ -392,3 +392,6 @@ console.log(x) = 0.3 buluruz*/
 //?console.log(str[0]); // C
 //?console.log(str[3]); // r
 //?console.log(str[str.length-1]); //y
+
+// let x = "Cetin"
+// console.log(x.includes("C")); //true
