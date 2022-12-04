@@ -420,3 +420,8 @@ console.log(x) = 0.3 buluruz*/
 //*console.log(x.slice(0)) //cetin
 //*console.log(x.slice(0,3)); //cet
 //*console.log(x.slice(-5,-2)) //cet
+
+// let x = "cetin"
+// console.log(x.substring(0,2));
+// console.log(x.substring(3,100));
+
