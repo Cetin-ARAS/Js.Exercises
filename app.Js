@@ -381,7 +381,9 @@ console.log(x) = 0.3 buluruz*/
 //!console.log(school.availableQuota());
 
 
-//* var num = [7, 12, 143, 54, 37]
-//*num.sort(function (a,b){
-//*return a - b});
-//*console.log(num);
+// let x = "a, b";
+
+// let y= "c, d, e";
+
+// let z = x.concat(y);
+// console.log(z) = a,bc,d,e
