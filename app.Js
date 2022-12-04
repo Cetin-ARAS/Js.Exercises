@@ -425,3 +425,5 @@ console.log(x) = 0.3 buluruz*/
 // console.log(x.substring(0,2));
 // console.log(x.substring(3,100));
 
+// let x = "                          cetin       "
+// console.log(x.trimEnd()); baştaki boşlukarı trimledi
