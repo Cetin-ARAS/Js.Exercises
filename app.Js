@@ -415,3 +415,8 @@ console.log(x) = 0.3 buluruz*/
 // console.log(myNewString);
 
 // i yine harf duyarlılığını kaldırır.g de globalde eşleşmeleri yapar.
+
+//*let x = "cetin"
+//*console.log(x.slice(0)) //cetin
+//*console.log(x.slice(0,3)); //cet
+//*console.log(x.slice(-5,-2)) //cet
