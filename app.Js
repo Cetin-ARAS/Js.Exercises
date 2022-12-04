@@ -387,3 +387,8 @@ console.log(x) = 0.3 buluruz*/
 
 // let z = x.concat(y);
 // console.log(z) = a,bc,d,e
+
+//?let str = "Clarusway";
+//?console.log(str[0]); // C
+//?console.log(str[3]); // r
+//?console.log(str[str.length-1]); //y
