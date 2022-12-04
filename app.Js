@@ -394,4 +394,13 @@ console.log(x) = 0.3 buluruz*/
 //?console.log(str[str.length-1]); //y
 
 // let x = "Cetin"
-// console.log(x.includes("C")); //true
+// console.log(x.includes("C")); true
+
+// let str = 'You do not know what you do not know until you know.';
+// let  firstResult = str.lastIndexOf("know");
+
+// console.log (`firstResult is ${firstResult} `);
+
+// let secondResult = str.lastIndexOf("know", str.lastIndexOf("know")-1); // Nested use
+
+// console.log (`secondResult is ${secondResult } `);
