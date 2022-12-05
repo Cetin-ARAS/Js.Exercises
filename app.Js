@@ -427,3 +427,9 @@ console.log(x) = 0.3 buluruz*/
 
 // let x = "                          cetin       "
 // console.log(x.trimEnd()); baştaki boşlukarı trimledi
+
+// let x = { name: "Cetin"};
+// const y = [x];
+// x = null;
+
+// console.log(y)
