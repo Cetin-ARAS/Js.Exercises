@@ -457,3 +457,18 @@ console.log(x) = 0.3 buluruz*/
 // });
 // console.log(numbers);
 // [ 0,  1,  2, 3, 10, 20, 30 ]
+
+// let x = ['okul', 'cetin']
+// console.log(x.sort())
+
+// let colors = [0,  1,  2, 3, 10, 20, 30 ];
+// console.log(colors.splice(3, 2, 11, 12))
+// console.log(colors);
+
+// var x = ["9","25","111","John","James","Aaron"];
+// console.log (x.sort());
+
+// findSmallestInt(x) {
+//     const min = Math.min(...x)
+//     return min
+//   }
