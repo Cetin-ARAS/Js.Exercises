@@ -441,3 +441,7 @@ console.log(x) = 0.3 buluruz*/
 // console.log(typeof myObj); // object
 // console.log(Array.isArray(myObj)); // false
 // console.log(myObj instanceof Array); // false
+
+// const name = [];
+// const x = name.length;
+// console.log (name) output 0
