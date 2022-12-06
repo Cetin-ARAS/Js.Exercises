@@ -445,3 +445,15 @@ console.log(x) = 0.3 buluruz*/
 // const name = [];
 // const x = name.length;
 // console.log (name) output 0
+
+// let x = ['okul', 'cetin']
+// console.log(x.reverse());
+
+// const numbers = [0, 1 , 2, 3, 10, 20, 30 ];
+// numbers.sort( function( a , b){
+//     if(a > b) return 1;
+//     if(a < b) return -1;
+//     return 0;
+// });
+// console.log(numbers);
+// [ 0,  1,  2, 3, 10, 20, 30 ]
