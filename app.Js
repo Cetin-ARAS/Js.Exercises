@@ -430,6 +430,14 @@ console.log(x) = 0.3 buluruz*/
 
 // let x = { name: "Cetin"};
 // const y = [x];
-// x = null;
-
+// x= null ;
 // console.log(y)
+
+// const myArr = [1, 2, 3];
+// const myObj = {firstName: "John", lastName: "Doe", age:24};
+// console.log(typeof myArr); // object
+// console.log(Array.isArray(myArr)); // true
+// console.log(myArr instanceof Array); // true
+// console.log(typeof myObj); // object
+// console.log(Array.isArray(myObj)); // false
+// console.log(myObj instanceof Array); // false
