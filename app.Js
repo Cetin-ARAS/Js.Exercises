@@ -523,3 +523,22 @@ console.log(x) = 0.3 buluruz*/
 // letters.forEach((letter) => {
 //   console.log(letter);
 // });
+
+// const sides = [2, 4, 5, 8, 10];
+// const squares = sides.map((side)=> {
+//     return side ** 2;
+// });
+// console.log(squares);
+
+const cities = [
+    {name: 'Los Angeles', population: 3792621},
+    {name: 'Chicago', population: 2695598},
+    {name: 'New York', population: 8175133},
+    {name: 'Houston', population: 2099451},
+    {name: 'Philadelphia', population: 1526006}
+  ];
+  const rounded = cities.map((city) => {
+    city.population = (city.population/1000000).toFixed(1)+'M';
+    return city;
+  });
+  console.log(rounded);
