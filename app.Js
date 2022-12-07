@@ -587,3 +587,25 @@ console.log(x) = 0.3 buluruz*/
 // creating objects
 // const person1 = new Person();
 // console.log(Person.prototype);
+
+// class Dog {
+//     constructor(name, foot) {
+//       this.dogName = name;
+//       this.foot = foot;
+//     }
+//   }
+//   myDog = new Dog("Buldog") 
+//   console.log(myDog)
+
+//   class Person {
+//     constructor(firstName, lastName) {
+//       this.firstName = firstName;
+//       this.lastName = lastName;
+//       this.#privateAge = 10;
+//     }
+//     fullName() {
+//       return this.firstName + " " + this.lastName;
+//     }
+//   }
+//   let person = new Person("John", "Doe");
+//   console.log(person.fullName()); // Expected Output : "John Doe"
