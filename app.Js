@@ -575,3 +575,15 @@ console.log(x) = 0.3 buluruz*/
 
 // console.log(a.value()); 1
 // console.log(b.value()); 0
+// let a = -true;
+// console.log(a);
+
+
+// constructor function
+// function Person () {
+//     this.name = 'John',
+//     this.age = 23
+// }
+// creating objects
+// const person1 = new Person();
+// console.log(Person.prototype);
