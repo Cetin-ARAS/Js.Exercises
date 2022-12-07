@@ -508,3 +508,6 @@ console.log(x) = 0.3 buluruz*/
 //         }
 //       return sum / array.length ;
 //       }
+// function find_average(arr) {
+//     return arr.length > 0? arr.reduce((a, b) => a + b) / arr.length : 0;
+// }
