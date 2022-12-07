@@ -554,3 +554,24 @@ console.log(x) = 0.3 buluruz*/
 //     return city.population < 3000000;
 //   });
 //   console.log(smallCities)
+
+// function makeCounter() {
+//     let counter = 0;
+
+//     return {
+//         value: function () {
+//             return counter;
+//         },
+//         increment: function () {
+//             counter++;
+//         }
+//     };
+// }
+
+// let a = makeCounter();
+// let b = makeCounter();
+
+// a.increment();
+
+// console.log(a.value()); 1
+// console.log(b.value()); 0
