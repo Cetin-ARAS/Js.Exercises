@@ -493,3 +493,18 @@ console.log(x) = 0.3 buluruz*/
 //     }
 //    return sum;
 //    }
+//?Write a function which calculates the average of the numbers in a given list.
+//?Note: Empty arrays should return 0.
+// function findAverage(array) {
+//     var sum = 0;
+//        for(var i = 0; i < array.length; i++) {
+//          if(array[i] > 0) {
+//           sum += array[i] 
+          
+//         }
+//          }
+//         if(sum / array.length !=Number(sum / array.length)){
+//           return  0;
+//         }
+//       return sum / array.length ;
+//       }
