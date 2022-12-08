@@ -618,9 +618,22 @@ console.log(x) = 0.3 buluruz*/
 // console.log(hepsiniTopla(1,2,3,4))
 
 // let n = 0;
-
 // while (n < 3) {
 //   n++;
 // }
-
 // console.log(n);
+
+//? var hoistedtir let ve const değil
+//? var func scopedir
+// let x = function(){
+//     if(true) {
+//         console.log(a) a burda undefined verir varın hoisting öz dolayı
+//         console.log(b) b is not defined verir.
+
+//         var a = 2;
+//         let b = 1;    
+//     }
+//     console.log(a) burda 2 var function scopedur
+//     console.log(b) b değil
+// }
+// x();
