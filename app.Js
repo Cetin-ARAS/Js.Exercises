@@ -637,3 +637,7 @@ console.log(x) = 0.3 buluruz*/
 //     console.log(b) b değil
 // }
 // x();
+
+//* const cars = [0.2+0.1]
+//* console.log(cars instanceof(Object)); true döner
+//* console.log(cars instanceof(Array)); true döner
