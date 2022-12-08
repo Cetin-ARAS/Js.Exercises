@@ -609,3 +609,18 @@ console.log(x) = 0.3 buluruz*/
 //   }
 //   let person = new Person("John", "Doe");
 //   console.log(person.fullName()); // Expected Output : "John Doe"
+
+// const hepsiniTopla = (...sayılar) => {
+//     let toplam = 0;
+//     console.log(sayılar);
+// };
+
+// console.log(hepsiniTopla(1,2,3,4))
+
+// let n = 0;
+
+// while (n < 3) {
+//   n++;
+// }
+
+// console.log(n);
