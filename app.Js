@@ -641,3 +641,4 @@ console.log(x) = 0.3 buluruz*/
 //* const cars = [0.2+0.1]
 //* console.log(cars instanceof(Object)); true döner
 //* console.log(cars instanceof(Array)); true döner
+
