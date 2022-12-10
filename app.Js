@@ -642,3 +642,13 @@ console.log(x) = 0.3 buluruz*/
 //* console.log(cars instanceof(Object)); true döner
 //* console.log(cars instanceof(Array)); true döner
 
+// let sum = 0;
+// const numbers = [65, 44, 12, 4];
+// numbers.forEach(myFunction);
+
+
+// function myFunction(item) {
+//   sum += item;
+//   console.log(sum);
+// }
+// console.log(sum)
