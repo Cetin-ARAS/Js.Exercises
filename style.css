@@ -1,0 +1,13 @@
+@keyframes trash-movement {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .trash-icon {
+    animation-name: trash-movement;
+    animation-duration: 2s;
+  }
