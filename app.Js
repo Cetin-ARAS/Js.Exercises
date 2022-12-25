@@ -652,3 +652,7 @@ console.log(x) = 0.3 buluruz*/
 //   console.log(sum);
 // }
 // console.log(sum)
+// let x =5
+// let a = 3;
+// let c = a++ 
+// console.log(++c)
