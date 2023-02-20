@@ -1,0 +1,50 @@
+Arkadaşlar JS Fonksiyonlar İçin Birkaç Soru Buldum. Buradan Sizle Paylaşıyorum.
+Sizler de Bakın. Müsait Olduğumuz Bir Gün Hep Beraber Çözümlerini Yaparız.
+
+Örnek-1
+Kullanıcın girdiği sayının karesini alan fonksiyonu yazalım.
+
+Örnek-2
+Kullanıcın girdiği Celcius dereceyi Fahrenheit'a çevirelim.
+
+Örnek-3
+Dikdörtgenin Alanını bulalım
+
+Örnek-4
+Çemberin Çevresini ve Alanını bulan fonksiyonu yazalım
+
+Örnek-5
+Kullanıcın girdiği sayıyı tersten yazan fonksiyonu yazalım.
+örn => 12345 çıktı => 54321
+
+Örnek-6
+Kullanıcın girdiği rastgele harfleri alfabetik sıraya göre dizen fonksiyonu yazalım.
+örn => nfdjnasnmcanc çıktı => aaccdfjmnnnns
+
+Örnek-7
+Kullanıcın girdiği cümledeki ünlü harflerin sayısını bulan fonksiyonu yazalım.
+örn => ahmet yazınca 2 mark yazınca 1 çıktısı alacağız.
+
+Örnek-8
+Kullanıcını girdiği kelimenin palindrom olup olmadığını kontrol eden fonksiyonu yazalım.
+örn => kayak yazınca true değer verecek. murat yazınca false değer verecek
+(palindrom tersten ve düzden yazılınca aynı olan kelime. örn; tat, kayak, kelek vb.)
+
+Örnek-9
+Kullanıcın girdiği cümledeki kelimelerin ilk harfini büyüten fonksiyonu yazalım.
+örn => bu cümledeki her kelimenin ilk harfi büyük olacak
+çıktı => Bu Cümledeki Her Kelimenin Ilk Harfi Büyük Olacak
+
+Örnek-10
+Girilen sayının faktöriyelini alan recursive fonksiyonu yazalım.
+
+Örnek-11
+Girilen cümlede hangi harften kaç tane olduğunu bulan fonksiyonu yazalım.
+örn => bu bir cümledir. kullanıcı b harfini sorgularsa 2 değeri dönecek. u harfini sorgularsa 1 dönecek.
+
+Örnek-12
+Girilen sayının asal sayı olup olmadığını bulan recursive fonksiyonu yazalım.
+
+Örnek-13
+Cümlede tekrar eden harfleri sayıya çeviren fonksiyon
+örn => aaabbcccd çıktı => 4a2b3c1d olacak
