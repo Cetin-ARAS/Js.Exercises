@@ -14,4 +14,15 @@
 //! function sum(numbers) {
    //! return numbers.reduce((a, b) => a + b, 0); }
   
-3-   
+// 3-   1, 1 --> "10" (1 + 1 = 2 in decimal or 10 in binary)
+// 5, 9 --> "1110" (5 + 9 = 14 in decimal or 1110 in binary)
+
+//! function addBinary(a, b) {
+//!     // İki sayının toplamını bulun
+//!     let sum = a + b;
+    
+//!     // Toplamı ikili sayı sistemiyle ifade edin
+//!     let binarySum = sum.toString(2);
+    
+//!    return binarySum;
+//!   }
