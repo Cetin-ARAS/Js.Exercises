@@ -27,7 +27,7 @@
 //!    return binarySum;
 //!   }
 
-//4--str ="double  spaces"
+//4--str ="double  spaces"  ( reverse sentence)
 
 //!function reverseWords(str) {
     // Go for itr
