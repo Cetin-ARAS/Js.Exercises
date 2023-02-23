@@ -26,3 +26,11 @@
     
 //!    return binarySum;
 //!   }
+
+//4--str ="double  spaces"
+
+//!function reverseWords(str) {
+    // Go for itr
+  //!  let x = str.split(' ').map(word => word.split('').reverse().join(''))
+    //!return x.join(' ')
+  }
