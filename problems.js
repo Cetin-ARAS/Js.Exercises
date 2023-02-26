@@ -47,11 +47,10 @@
 
 // 6-- palindrom sayı ve kelimeler
 
-const value = "cetin"
+const value = "10232 cetin"
 
 const isPalindrome = (val) => {
    const reverse = val.split("").reverse().join("")
-   console.log("reverse", reverse)
+   return reverse == val
 }
-
-isPalindrome(value)
+console.log("reverse", isPalindrome(value))
