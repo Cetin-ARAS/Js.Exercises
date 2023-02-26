@@ -33,7 +33,7 @@
     // Go for itr
   //!  let x = str.split(' ').map(word => word.split('').reverse().join(''))
     //!return x.join(' ')
-  }
+  //!}
 
   // 5-- Consider an array/list of sheep where some sheep may be missing from their place. We need a function that counts the number of sheep present in the array (true means present).
 
@@ -41,6 +41,17 @@
     //! let counter = 0
     //! for(let i = 0; i < arrayOfSheep.length; i++) {
     //!    if(arrayOfSheep[i]) counter += 1
-    }
+    //!}
   //!  return counter
+//!}
+
+// 6-- palindrom sayı ve kelimeler
+
+const value = "cetin"
+
+const isPalindrome = (val) => {
+   const reverse = val.split("").reverse().join("")
+   console.log("reverse", reverse)
 }
+
+isPalindrome(value)
