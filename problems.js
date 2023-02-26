@@ -56,12 +56,31 @@
 //! console.log("reverse", isPalindrome(value))
 
 // 7-- faktoriyel
-const number = 5;
-let result = 1;
 
-for (let index = 1; index <= number; index++) {
-           result  *=  index
-            
-}
+//! const number = 5;
+//! let result = 1;
 
-console.log("result", result)
+//! for (let index = 1; index <= number; index++) {
+//!            result  *=  index          
+//! }  console.log("result", result)
+
+// 8-- basamak sayı bulma
+
+//! (string için)
+//! let adet = 0;
+//! let sayı = "216312365413";  
+
+//! while (adet < sayı.length) {
+//!   adet += 1;
+//! }
+//! console.log(adet)
+
+//! let sayı = 216312365413
+//! let adet = 0
+
+//! while (sayı !=  0) {
+//!   sayı = Math.floor(sayı/10)
+//!   adet++
+  
+//! }
+//! console.log(adet)
