@@ -108,15 +108,13 @@
 
 //? 10-- asal sayı bulma
 
-const number = 20
+const number = 19
 let counter = 0
-
-const asalSayıBulma = (number) = {
-   for (let i = 2; i < number; i++) {
-    if ( number % i == 0 ) {
+for (let index = 2; index< number; index++) {
+    if (number % index == 0) {
       counter++;
       break;
     }
-  }
 }
-console.log(counter >0 ? "Asal Değil" : "Sayı asal")
+
+console.log(counter > 0 ? "Asal Değil" : "Sayı asal")
