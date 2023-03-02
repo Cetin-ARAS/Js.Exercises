@@ -108,13 +108,32 @@
 
 //? 10-- asal sayı bulma
 
-const number = 19
-let counter = 0
-for (let index = 2; index< number; index++) {
-    if (number % index == 0) {
-      counter++;
-      break;
-    }
-}
+// const number = 19
+// let counter = 0
+// for (let index = 2; index< number; index++) {
+//     if (number % index == 0) {
+//       counter++;
+//       break;
+//     }
+// }
 
-console.log(counter > 0 ? "Asal Değil" : "Sayı asal")
+// console.log(counter > 0 ? "Asal Değil" : "Sayı asal")
+
+//?11--bubleSort
+ 
+// const bubbleSort = (arr) => {
+//   let length = arr.length
+//   for (let i = 0; i < length - 1; i++) {
+//     for (let j = 0; j < length - i - 1; j++) {
+//       if(arr[j] > arr[j + 1]) {
+//         let temp = arr[j]
+//         arr[j] = arr[j + 1]
+//         arr[j + 1] = temp 
+//       }
+//     }
+//   }
+//   return arr
+// }
+
+// const myArray = [14, 35, 65, 189, 253, 652, 698, 654136465, 2313131360, 15, 354, 2966]
+// console.log("Sıralı Array", bubbleSort(myArray));
