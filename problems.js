@@ -119,7 +119,7 @@
 
 // console.log(counter > 0 ? "Asal Değil" : "Sayı asal")
 
-//?11--bubleSort
+//?11--bubleSort( küçükten büyüğe sıralama)
  
 // const bubbleSort = (arr) => {
 //   let length = arr.length
@@ -137,3 +137,19 @@
 
 // const myArray = [14, 35, 65, 189, 253, 652, 698, 654136465, 2313131360, 15, 354, 2966]
 // console.log("Sıralı Array", bubbleSort(myArray));
+
+
+//?12--Mükemmel sayı bölenleri kendisine eşit olan sayı 6 = 3+2+1 gibi
+
+let x = 6
+let y = 0;
+
+// for (let i = 1; i < x; i++) {
+//     if (x % i == 0 ){
+//       y += i 
+//      }
+// } 
+// if ( y == x ){
+//     console.log(" x mükemmel sayıdır.")
+// }else{
+//   console.log("x mükemmel sayı değildir")}
